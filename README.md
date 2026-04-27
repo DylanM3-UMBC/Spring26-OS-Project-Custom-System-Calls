@@ -2,7 +2,7 @@
 
 
 ## Project overview
-- This project test the basic implementation of custom system calls. Custom system calls that is implemented in this project are a Print of Hello World and syscall version of Memcpy
+- This project tests the basic implementation of custom system calls. The custom system calls that is implemented in this project are a Print of Hello World and syscall version of Memcpy
 
 
 ## Purpose 
