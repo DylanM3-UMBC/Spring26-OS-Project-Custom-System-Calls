@@ -6,14 +6,15 @@
 
 
 ## Purpose 
-- This project is made to practice and learn the basic OS cpncepts of creating custom system calls and how the userspace interacts with the kernelspace
+- This project is made to practice and learn the basic OS concepts of creating custom system calls and how the userspace interacts with the kernelspace
 
 
 ## Technologies used
 1. A Virtual Box with Debian 11 and Linux Kernel 5.15.67
+2. Booted up with a custom kernel that support this custom syscalls
 
 
-## Setup/installation: How to Compile
+## Setup/installation: How to Compile (This assumes that the OS is booted up with the specifed custom kernel)
 1. step one: execute command "g++ test.c -o test"
 2. step two: execute command "./test" to run test
 
